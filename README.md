@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Unipê software factory](https://github.com/a-danielabarreto/workshop_fs_23_2)
 
-- 🌱 I’m currently learning **Excel, Power BI, SQL and Python**
+- 🌱 I’m currently learning **Java, Python, SQL, Excel, Power BI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-danielabarreto](https://github.com/a-danielabarreto)
 
