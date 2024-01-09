@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniela Barrêto</h1>
 <h3 align="center">Civil engineer migrating to technology area</h3>
 
-- 🔭 I’m currently working on [Unipê software factory](https://github.com/a-danielabarreto/workshop_fs_23_2)
+- 🔭 I worked at [Unipê software factory](https://github.com/a-danielabarreto/workshop_fs_23_2) as an intern.
 
-- 🌱 I’m currently learning **Java, Python, SQL, Power BI**
+- 🌱 I’m currently learning **Java and Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/a-danielabarreto](https://github.com/a-danielabarreto)
 
